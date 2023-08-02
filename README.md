@@ -88,3 +88,9 @@
   </a>
 </div>
 </article>
+<div> 
+  <p align="center">
+    <a href="#"><img title="Snake animation" src="./assets/snake.svg">
+    </a>
+  </p>
+</div>
