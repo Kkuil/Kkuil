@@ -8,13 +8,34 @@
 <a href="https://blog.csdn.net/weixin_54931655?spm=1000.2115.3001.5343" rel="nofollow"><img src="https://raw.githubusercontent.com/yovvis/nav/main/static/icon32/csdn.png" alt="CSDN" style="max-width: 100%;"></a></p>
 <ul dir="auto">
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> I use daily:
-<a href="/yovvis/yovvis/blob/main"><img src="https://camo.githubusercontent.com/973ef79f4480abda619de36ae96f335e9f4167d330d827b14a86b31587762deb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d706c6173746963266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="/yovvis/yovvis/blob/main"><img src="https://camo.githubusercontent.com/982803cf428cb92cba498357d31f402ea379bc550f2293db476ff4d022673232/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d706c6173746963266c6f676f3d63737333" alt="CSS3" data-canonical-src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&amp;logo=css3" style="max-width: 100%;"></a>
-<a href="/yovvis/yovvis/blob/main"><img src="https://camo.githubusercontent.com/6b6c786f388acb9ca89af6071896fd27ca60e68f0abc9fe2033d85f3e1ccfd1e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3030303030303f7374796c653d706c6173746963266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d464643413238" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-000000?style=plastic&amp;logo=JavaScript&amp;logoColor=FFCA28" style="max-width: 100%;"></a>
-<a href="/yovvis/yovvis/blob/main"><img src="https://camo.githubusercontent.com/c5da0cd306feedee2bc3c733e184b7b8dc2e5bf7fb40358b0decdcbcaa8a40d6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5675652e6a732d3335343935453f6c6f676f3d7675652e6a73266c6f676f436f6c6f723d344643303844" alt="Vue" data-canonical-src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&amp;logoColor=4FC08D" style="max-width: 100%;"></a>
-<a href="/yovvis/yovvis/blob/main"><img src="https://camo.githubusercontent.com/1ee9aacb46189c4d41de6e51f9d9fc73f427e1ac0a11296210781c7d2a9a6f17/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3030303030303f6c6f676f3d676974266c6f676f436f6c6f723d464637303433" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-000000?logo=git&amp;logoColor=FF7043" style="max-width: 100%;"></a>
-<a href="/yovvis/yovvis/blob/main"><img src="https://camo.githubusercontent.com/508fdced147314cc7352f396e4cb601cd1b5c2f56ac01fff473bdad0d0564d89/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d3230323332413f6c6f676f3d646f636b6572266c6f676f436f6c6f723d363144414642" alt="Docker" data-canonical-src="https://img.shields.io/badge/docker-20232A?logo=docker&amp;logoColor=61DAFB" style="max-width: 100%;"></a></p>
+- 🚀 I use daily:
+  [![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)]()
+  [![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)]()
+  [![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)]()
+  [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)]()
+  [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)]()
+  [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)]()
+
+- 💻 I work using:
+  [![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white)]()
+  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)]()
+  [![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=plastic&logo=WebStorm&logoColor=white)]()
+  [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)]()
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)]()
+  [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)]()
+
+- ⚙️ I also use and work:
+  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)]()
+  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)]()
+  [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=plastic&logo=JavaScript&logoColor=FFCA28)]()
+  [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)]()
+  [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)]()
+  [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)]()
+  [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)]()
+
+- 🌱 I’m currently learning:
+  [![React Native](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)]()
+
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I work using:
