@@ -6,66 +6,6 @@
 <p dir="auto">My blog here ~</p>
 <p dir="auto"><a href="https://juejin.cn/user/242319276913645" rel="nofollow"><img src="https://raw.githubusercontent.com/yovvis/nav/main/static/icon32/juejin.png" alt="掘金" style="max-width: 100%;"></a>
 <a href="https://blog.csdn.net/weixin_54931655?spm=1000.2115.3001.5343" rel="nofollow"><img src="https://raw.githubusercontent.com/yovvis/nav/main/static/icon32/csdn.png" alt="CSDN" style="max-width: 100%;"></a></p>
-<ul dir="auto">
-<li>
-- 🚀 I use daily:
-  [![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)]()
-  [![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)]()
-  [![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)]()
-  [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)]()
-  [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)]()
-  [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)]()
-
-- 💻 I work using:
-  [![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white)]()
-  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)]()
-  [![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=plastic&logo=WebStorm&logoColor=white)]()
-  [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)]()
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)]()
-  [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)]()
-
-- ⚙️ I also use and work:
-  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)]()
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)]()
-  [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=plastic&logo=JavaScript&logoColor=FFCA28)]()
-  [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)]()
-  [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)]()
-  [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)]()
-  [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)]()
-
-- 🌱 I’m currently learning:
-  [![React Native](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)]()
-
-</li>
-<li>
-<p dir="auto"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I work using:
-<a href="/yovvis/yovvis/blob/main"><img src="https://camo.githubusercontent.com/cd7da7956ed0553ef900fc2fa786400e798edc359b41a5c1cb36aa070d8b012a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c694a5f494445412d3030303030302e7376673f7374796c653d706c6173746963266c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d7768697465" alt="IDEA" data-canonical-src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=plastic&amp;logo=intellij-idea&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="/yovvis/yovvis/blob/main"><img src="https://camo.githubusercontent.com/5a93c38dcd2ca8227ec6ce763a2fa71bfdcaacac88794a2309c91949099ed21e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030374143433f7374796c653d706c6173746963266c6f676f3d76697375616c2d73747564696f2d636f6465" alt="VS Code" data-canonical-src="https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&amp;logo=visual-studio-code" style="max-width: 100%;"></a>
-<a href="/yovvis/yovvis/blob/main"><img src="https://camo.githubusercontent.com/944d092b678f3de8addf714570459bd2f58518326bee0e9525d95f8ce6e422c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57656253746f726d2d3030303030303f7374796c653d706c6173746963266c6f676f3d57656253746f726d266c6f676f436f6c6f723d7768697465" alt="WebStorm" data-canonical-src="https://img.shields.io/badge/WebStorm-000000?style=plastic&amp;logo=WebStorm&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="/yovvis/yovvis/blob/main"><img src="https://camo.githubusercontent.com/bc5953b8db3d5541927942f1ab09ee82d1a81444f41894dff9a853e8c795ec12/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d47697465652d4138303032353f6c6f676f3d6769746565266c6f676f436f6c6f723d463136303631" alt="Gitee" data-canonical-src="https://img.shields.io/badge/-Gitee-A80025?logo=gitee&amp;logoColor=F16061" style="max-width: 100%;"></a>
-<a href="/yovvis/yovvis/blob/main"><img src="https://camo.githubusercontent.com/90a2f2eef5a9a6b15801e0b5b3c63f0a05ff51272a2a65ba3a0e337e89f9cb4d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d706c6173746963266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=plastic&amp;logo=github" style="max-width: 100%;"></a>
-<a href="/yovvis/yovvis/blob/main"><img src="https://camo.githubusercontent.com/feeea2d706b1eef52cbb53ae25c41f4188c5dcf815d502fbe8207f3b5bf6e8e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744c61622d4643413132313f7374796c653d706c6173746963266c6f676f3d6769746c6162" alt="GitLab" data-canonical-src="https://img.shields.io/badge/-GitLab-FCA121?style=plastic&amp;logo=gitlab" style="max-width: 100%;"></a></p>
-</li>
-<li>
-<p dir="auto"><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> I also use and work:
-  <a href="/yovvis/yovvis/blob/main"><img src="https://camo.githubusercontent.com/615e1b55f1e8234bfa419867fe358a6131e63c2cc459581c9c30ca45725a6b3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f6c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465" alt="Java" data-canonical-src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="/yovvis/yovvis/blob/main"><img src="https://camo.githubusercontent.com/40974717bb0b9e7e82dd61eb8cf04f8aeb8020f8904021ea2afc82e928df448b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3644423333463f6c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465" alt="Spring" data-canonical-src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="/yovvis/yovvis/blob/main"><img src="https://camo.githubusercontent.com/81a2bc4f0a3f94c97da1d2381dc386824f0281ebd9c0ec28a6b7f6da4f957b39/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f6c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MySQL" data-canonical-src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="/yovvis/yovvis/blob/main"><img src="https://camo.githubusercontent.com/cb848ca8de81f1a06b7413965a00e17b5412acaf074b70905b7d5b186a191a94/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5368656c6c2d3445433432323f6c6f676f3d5368656c6c266c6f676f436f6c6f723d464637303433" alt="Shell" data-canonical-src="https://img.shields.io/badge/-Shell-4EC422?logo=Shell&amp;logoColor=FF7043" style="max-width: 100%;"></a>
-<a href="/yovvis/yovvis/blob/main"><img src="https://camo.githubusercontent.com/9dfa0a359e736e1cd17d7cdfc975f0d4af60a6702840faa0ff286221c9df8aef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e67696e782d4636433931353f6c6f676f3d6e67696e78266c6f676f436f6c6f723d303239313337" alt="Nginx" data-canonical-src="https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&amp;logoColor=029137" style="max-width: 100%;"></a>
-<a href="/yovvis/yovvis/blob/main"><img src="https://camo.githubusercontent.com/0552b85fe8911291ad00883b0ff196b604d463dff7a8021b6b2f6557959d0534/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f73746d616e2d3741314641323f6c6f676f3d706f73746d616e266c6f676f436f6c6f723d464338303139" alt="Postman" data-canonical-src="https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&amp;logoColor=FC8019" style="max-width: 100%;"></a>
-<a href="/yovvis/yovvis/blob/main"><img src="https://camo.githubusercontent.com/e968f5b2287b27a1db9e9125450e8ffe862209817ead7f3a8b037c4c9fb3b096/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d3238373545333f6c6f676f3d6e706d266c6f676f436f6c6f723d303239313337" alt="NPM" data-canonical-src="https://img.shields.io/badge/-NPM-2875E3?logo=npm&amp;logoColor=029137" style="max-width: 100%;"></a></p>
-</li>
-<li>
-<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning:
-<a href="/yovvis/yovvis/blob/main"><img src="https://camo.githubusercontent.com/75f708233e2c0688c7b338aad9f7b30590765bdbd081bdabd58611863bfde449/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d706c6173746963266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" alt="React Native" data-canonical-src="https://img.shields.io/badge/React-20232A?style=plastic&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;"></a></p>
-</li>
-</ul>
-<p dir="auto">Welcome, You are my <a href="/Kkuil/Kkuil-profile"><img src="https://camo.githubusercontent.com/2368fb314f0bab22398feb08dda7e702652a75ad0c402cf110e41e10fa2fa76a/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f796f767669732f636f756e742e737667" alt="Visitor Count" data-canonical-src="https://profile-counter.glitch.me/Kkuil/count.svg" style="max-width: 100%;"></a> visitor, Thank You!<g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji><g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji></p>
-<p dir="auto"><a href="/Kkuil/Kkuil-profile"><span><img src="https://cdn.staticaly.com/gh/Kkuil/picx-images-hosting@master/20230707/github.5g7toa0t5q40.webp" height="145/" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=yovvis&amp;layout=compact" style="max-width: 100%;"></span></a></p>
-<h3 tabindex="-1" dir="auto"><a id="user-content-my-skill-set" class="anchor" aria-hidden="true" href="#my-skill-set"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>My Skill Set</h3>
-<table><tbody><tr><td valign="top" width="33%">
-<h4 tabindex="-1" dir="auto"><a id="user-content-frontend" class="anchor" aria-hidden="true" href="#frontend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Frontend</h4>
 <div align="center" dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bfa71fe5e1eb3ca57a7e4ef9c6b2ca21414c4fdab27ac6861e211e7cfe8f7d9f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://camo.githubusercontent.com/bfa71fe5e1eb3ca57a7e4ef9c6b2ca21414c4fdab27ac6861e211e7cfe8f7d9f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" alt="HTML5" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1f14c9c472b21cf8790a4fb6914be3a3181e957ecc2b397775f06a989d20cb37/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f637373332d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://camo.githubusercontent.com/1f14c9c472b21cf8790a4fb6914be3a3181e957ecc2b397775f06a989d20cb37/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f637373332d6f726967696e616c2d776f72646d61726b2e737667" alt="CSS3" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" style="max-width: 100%;"></a>
